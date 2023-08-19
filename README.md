@@ -31,7 +31,7 @@ The project is organized into modules for different functionalities:
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/eduardovisconti/bmi-calculator.git`
+1. Clone the repository: `git clone https://github.com/eduardovisconti/bmi_calculator.git`
 2. Navigate to the project directory: `cd bmi-calculator`
 3. Open `index.html` in your preferred web browser.
 
