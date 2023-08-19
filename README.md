@@ -1,6 +1,6 @@
 # BMI Calculator
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](https://i.imgur.com/1FCpLy5.jpg)
 
 ## Overview
 
@@ -37,10 +37,10 @@ The project is organized into modules for different functionalities:
 
 ## Screenshots
 
-![Error Alert](./screenshots/error-alert.png)
+![Error Alert](https://i.imgur.com/hXuyqlM.jpg)
 _Error alert displayed when non-numeric input is entered._
 
-![BMI Result Modal](./screenshots/bmi-modal.png)
+![BMI Result Modal](https://i.imgur.com/JPZMg9U.jpg)
 _Modal displaying the calculated BMI result._
 
 ## License
